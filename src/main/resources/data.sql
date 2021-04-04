@@ -1,0 +1,3 @@
+insert into BOOK (ID,AUTHOR,CATEGORY,NAME,PAGES,PRICE,PUBLICATION) values(7004,'Paula Hawkins','Psychological Fiction','The Girl on the Train',317,300,'Riverhead');
+insert into BOOK (ID,AUTHOR,CATEGORY,NAME,PAGES,PRICE,PUBLICATION) values(8004,'Aravind Adiga','Picaresque','The white tiger',318,250,'Atlantic books');
+insert into BOOK (ID,AUTHOR,CATEGORY,NAME,PAGES,PRICE,PUBLICATION) values(9004,'Morgan Housel','Psychology','The phsycology of money',400,280,'Harriman House');
