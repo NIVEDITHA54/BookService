@@ -2,23 +2,21 @@ A Restful CRUD API for book management using Spring Boot 2.x , Spring Data JPA,H
 
 Steps for executing :
 
-1.	Clone/Download the repository.
-
-$ git clone https://github.com/papicella/spring-book-service.git
+1.	Download the repository.
 
 2.	Open the project in the IDE (Netbeans/Intellij Idea/Eclipse) and open the mvnw.cmd in terminal.Execute the below command to build the image.
 
    mvnw.cmd spring-boot:build-image
 
-3. 	Execute the below command to run the container
+3. Execute the below command to run the container.
 
    docker run -p 8080:8080 bookservice:0.0.1-SNAPSHOT
 
-4.	Run the below command to get the list of running containers :
+4.	Run the below command to get the list of running containers.
 
    docker ps
 
-5.	After executing above steps without any errors and docker containers are up and running, open the browser and navigate to below url which provides the info about the endpoints:
+5.	Open the browser and navigate to below url to get the info about the available endpoints.
    
    http://localhost:8080/swagger-ui/index.html
 
