@@ -24,5 +24,28 @@ Steps for executing :
 ![image](https://user-images.githubusercontent.com/62092482/113513360-a6f34e80-9569-11eb-9066-7ab0c921491e.png)
 
 
+Supporting screenshorts of the working API:
 
+1. GET - http://localhost:8080/bookservice/books
 
+![image](https://user-images.githubusercontent.com/62092482/113515796-ed9b7580-9576-11eb-88ed-ef76b5413fa8.png)
+
+2. GET - http://localhost:8080/bookservice/books/{id}
+
+![image](https://user-images.githubusercontent.com/62092482/113515832-14f24280-9577-11eb-8f65-357a9d613bc5.png)
+
+3. POST- http://localhost:8080/bookservice/books
+
+![image](https://user-images.githubusercontent.com/62092482/113515880-6a2e5400-9577-11eb-9383-1c71aa66ad6e.png)
+
+![image](https://user-images.githubusercontent.com/62092482/113515888-7f0ae780-9577-11eb-84a6-ed8a207eca48.png)
+
+4. PUT - http://localhost:8080/bookservice/books/{id}
+
+![image](https://user-images.githubusercontent.com/62092482/113515929-b24d7680-9577-11eb-8374-de0666583d03.png)
+
+![image](https://user-images.githubusercontent.com/62092482/113515939-c3968300-9577-11eb-9135-c7c0abcd03a0.png)
+
+5. DELETE - http://localhost:8080/bookservice/books/{id}
+
+![image](https://user-images.githubusercontent.com/62092482/113515952-e6c13280-9577-11eb-99f4-4c3051498ee8.png)
