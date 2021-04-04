@@ -22,13 +22,6 @@ $ git clone https://github.com/papicella/spring-book-service.git
    
    http://localhost:8080/swagger-ui/index.html
 
-Troubleshooting
-
-Any errors related to "connection link failure" is seen while starting/running containers then it might be due to the MySQL hostname use in the application database connection. Run the below command to get the hostname of the MySQL and replace it
-
-   docker inspect {CONTAINER-ID}
-
-
 
 ![image](https://user-images.githubusercontent.com/62092482/113513360-a6f34e80-9569-11eb-9066-7ab0c921491e.png)
 
